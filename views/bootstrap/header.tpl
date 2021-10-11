@@ -29,8 +29,8 @@
         </div>
       </div>
     </div>
-    </section>
+  </section>
 
-<section class="ph">
-  <div class="container">
-  <div class="bs-docs-section">
+  <section class="ph">
+    <div class="container">
+      <div class="bs-docs-section">
